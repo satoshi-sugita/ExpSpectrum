@@ -1,4 +1,3 @@
 numpy
-pylab
 matplotlib
 matplotlib.gridspec
